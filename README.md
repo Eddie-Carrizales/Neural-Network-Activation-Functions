@@ -9,10 +9,10 @@ Note: There are more graphs shown in the code file.
 
 # Logistic (Sigmoid) Loss Curves
 
-![My image](https://github.com/Eddie-Carrizales/My-Python-Projects/blob/main/Machine%20Learning%20Projects/Neural%20Network/Activation%20Function%20Graphs/Logistic(Sigmoid)%20Loss%20Curve.png)
+![My image](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions/blob/main/Activation%20Function%20Graphs/Logistic(Sigmoid)%20Loss%20Curve.png)
 
 # ReLu Loss Curves
-![My image](https://github.com/Eddie-Carrizales/My-Python-Projects/blob/main/Machine%20Learning%20Projects/Neural%20Network/Activation%20Function%20Graphs/ReLu%20Loss%20Curve.png)
+![My image](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions/blob/main/Activation%20Function%20Graphs/ReLu%20Loss%20Curve.png)
 
 # Tanh Loss Curves
-![My image](https://github.com/Eddie-Carrizales/My-Python-Projects/blob/main/Machine%20Learning%20Projects/Neural%20Network/Activation%20Function%20Graphs/Tanh%20Loss%20Curve.png)
+![My image](https://github.com/Eddie-Carrizales/Neural-Network-Activation-Functions/blob/main/Activation%20Function%20Graphs/Tanh%20Loss%20Curve.png)
